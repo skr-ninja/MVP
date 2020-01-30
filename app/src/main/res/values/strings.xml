@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP Pattern</string>
+    <string name="email">Please enter email</string>
+    <string name="user_name">Please enter username</string>
+</resources>
